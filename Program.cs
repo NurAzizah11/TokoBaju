@@ -15,7 +15,7 @@ namespace TokoBaju
                 {
                     Console.WriteLine("Koneksi ke Database\n");
                     Console.WriteLine("Masukkan User ID :");
-                    string user = Console.ReadLine();
+                    string user = Console.ReadLine(); 
                     Console.WriteLine("Masukkan Password :");
                     string pass = Console.ReadLine();
                     Console.WriteLine("Masukkan database tujuan :");
